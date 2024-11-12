@@ -1,3 +1,3 @@
 # BotDeDiscordFinal
 Mi ultimo bot te discord por ahora (
-PREFIJO "=")
+PREFIJO "=", PON TU TOKEN AL FINAL)
